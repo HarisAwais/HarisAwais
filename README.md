@@ -27,6 +27,10 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=HarisAwais&theme=react" alt="GitHub Streak" />
 </a>
 
+## 📈 GitHub Activity Graph
+
+[![Haris's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarisAwais&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📫 How to Reach Me
 
 Feel free to reach out if you want to collaborate or just chat about tech:  
